@@ -1,5 +1,5 @@
 # Image-Based-Obstacle-Detection-for-Autonomous-Vehicles-Using-CNNs
-Welcome to the repository for my Introduction to Digital Engineering (ENGO 680) Project, where I collaborated with my group members to explore obstacle detection for autonomous vehicles using image-based techniques.
+Welcome to the repository for Introduction to Digital Engineering (ENGO 680) Project, where I collaborated with my group members to explore obstacle detection for autonomous vehicles using image-based techniques.
 
 This project focuses on implementing a monocular vision-based approach for real-time obstacle detection in autonomous vehicles. Leveraging Convolutional Neural Networks (CNNs) and Tensor Flow, the solution is designed to process input from a single camera to detect and classify obstacles efficiently.
 
