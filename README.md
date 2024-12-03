@@ -17,4 +17,5 @@ Focus Areas: Emphasis on computational speed, anomaly detection, and robust dete
 The project was developed by:
 
 Chukwuebuka Ezeanaka
+
 Taiwo Oladeji
