@@ -6,8 +6,11 @@ This project focuses on implementing a monocular vision-based approach for real-
 
 # Key Features
 Dataset: Utilizes the German traffic sign recognition benchmark dataset, video of random streets in Prague, and YOLO model from Ultralytics for compatibility with our object detection model.
+
 Model Training: Includes annotated data preparation using CVAT, Pre-training with the YOLO model, and evaluation with metrics such as accuracy, false positives/negatives, and depth estimation.
+
 Real-World Testing: Simulates real-world conditions by processing recorded video footage of streets.
+
 Focus Areas: Emphasis on computational speed, anomaly detection, and robust detection in diverse driving environments.
 
 # Team Members
